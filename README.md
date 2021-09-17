@@ -1,7 +1,7 @@
 ## Task
 
 ![alt text](task.png)
-Detail Task
+Detail Task\
 Buatkan menu :
 
 1. informasi biodata (firstName, lastName, tempatLahir, tahunLahir,
